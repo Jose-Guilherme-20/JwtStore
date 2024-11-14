@@ -1,0 +1,15 @@
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Infra.deps.json
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Infra.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Infra.pdb
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Core.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\bin\Debug\net6.0\JwtStore.Core.pdb
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.csproj.AssemblyReference.cache
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.AssemblyInfoInputs.cache
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.AssemblyInfo.cs
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.csproj.CopyComplete
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\refint\JwtStore.Infra.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\JwtStore.Infra.pdb
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Infra\obj\Debug\net6.0\ref\JwtStore.Infra.dll

@@ -1,0 +1,12 @@
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.deps.json
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\bin\Debug\net6.0\JwtStore.Core.pdb
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.csproj.AssemblyReference.cache
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.AssemblyInfoInputs.cache
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.AssemblyInfo.cs
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\refint\JwtStore.Core.dll
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\JwtStore.Core.pdb
+C:\Users\jgsco\RiderProjects\JwtStore\JwtStore.Core\obj\Debug\net6.0\ref\JwtStore.Core.dll

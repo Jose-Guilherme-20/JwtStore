@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="SharedContext\**" />
+      <Compile Remove="AccountContext\**" />
+      <Compile Remove="Context\AccountContext\UseCases\Authenticate\Contract.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="SharedContext\**" />
+      <EmbeddedResource Remove="AccountContext\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="SharedContext\**" />
+      <None Remove="AccountContext\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Flunt" Version="2.0.5" />
+      <PackageReference Include="mediatR" Version="12.4.1" />
+    </ItemGroup>
+
+</Project>
